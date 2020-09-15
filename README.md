@@ -3,16 +3,16 @@
 [![Website](https://img.shields.io/website?label=cjclines.github.io&style=for-the-badge&url=https%3A%2F%2Fcjclines.github.io)](https://cjclines.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/EatSleepCodeRe1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FEatSleepCode-Repeat&screen_name=EatSleepCodeRepeat)
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Husband, Father & Developer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I’m currently working on a Web Development & Discord Bot Development!
+- 🌱 I’m currently learning C++ & C#!
+- 👯 I’m looking to collaborate with any content creators!
+- 🥅 2020 Goals: Contribute more to Open Source projects & finally understand C++ fully!
+- ⚡ Fun fact: I love to play basketball & piano! 
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-cjclines.vercel.app/api/spotify-playing" alt="Cj Clines Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
